@@ -1,0 +1,16 @@
+#body1{
+    background-color:darksalmon;
+}
+
+#camera{
+    width:500px;
+    height:500px;
+    border:2px solid;
+    
+}
+
+#result{
+    width:500px;
+    height:500px;
+    border:2px solid;
+}
